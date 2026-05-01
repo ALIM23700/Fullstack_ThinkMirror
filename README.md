@@ -86,7 +86,7 @@ Follow setup instructions in each repo.
 ![History Page](screenshot/history.png)
 
 ### Login Page
-![Login Page](screenshot/login.png)
+![Login Page](screenshot/Login.png)
 
 ### Signup Page
 ![Signup Page](screenshot/signup.png)
