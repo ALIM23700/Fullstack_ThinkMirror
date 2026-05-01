@@ -1,11 +1,11 @@
 # 🧠 ThinkMirror — AI-Powered Decision Analysis App
 
 ## 🔗 Project Repositories
-- 💻 Frontend: https://github.com/YOUR_USERNAME/ThinkMirror-Frontend  
-- ⚙️ Backend: https://github.com/YOUR_USERNAME/ThinkMirror-Backend  
+- 💻 Frontend: https://github.com/ALIM23700/ThinkMirror_Frontend 
+- ⚙️ Backend:https://github.com/ALIM23700/ThinkMirror_Backend  
 
 ## 🌐 Live Demo
-👉 https://your-live-link.com
+👉 https://think-mirror-frontend.vercel.app/
 
 ---
 
@@ -70,8 +70,8 @@ MongoDB (Stores thoughts & results)
 
 To run locally, check the individual repositories:
 
-- **Frontend:** https://github.com/YOUR_USERNAME/ThinkMirror-Frontend  
-- **Backend:** https://github.com/YOUR_USERNAME/ThinkMirror-Backend  
+- **Frontend:**https://github.com/ALIM23700/ThinkMirror_Frontend 
+- **Backend:** https://github.com/ALIM23700/ThinkMirror_Backend
 
 Follow setup instructions in each repo.
 
@@ -80,7 +80,7 @@ Follow setup instructions in each repo.
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/Home.pnggg)
+![Home Page](screenshots/Home.png)
 
 ### Thought History
 ![History Page](screenshots/history.png)
