@@ -80,16 +80,16 @@ Follow setup instructions in each repo.
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/Home.png)
+![Home](screenshot/Home.png) 
 
 ### Thought History
-![History Page](screenshots/history.png)
+![History Page](screenshot/history.png)
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshot/login.png)
 
 ### Signup Page
-![Signup Page](screenshots/signup.png)
+![Signup Page](screenshot/signup.png)
 
 ---
 
