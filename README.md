@@ -1,4 +1,5 @@
 # 🧠 ThinkMirror — AI-Powered Decision Analysis App
+📌 Showcase Repository: This repository serves as a showcase for the project. The source code is maintained in separate frontend and backend repositories.
 
 ## 🔗 Project Repositories
 - 💻 Frontend: https://github.com/ALIM23700/ThinkMirror_Frontend 
@@ -67,6 +68,7 @@ MongoDB (Stores thoughts & results)
 ---
 
 ## ⚙️ Setup Instructions
+This repository serves as a showcase for the project. The source code is maintained in separate frontend and backend repositories.
 
 To run locally, check the individual repositories:
 
